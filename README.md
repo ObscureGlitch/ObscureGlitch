@@ -107,6 +107,8 @@ Broke and single
 <p>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=daniel.zongjin.he@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" height="28" alt="Email"></a>
   &nbsp;
+  <a href="https://www.linkedin.com/in/daniel-he-61a3a2388/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" height="28" alt="Daniel's LinkedIn profile"></a>
+  &nbsp;
   <a href="https://www.instagram.com/obscureglitch/"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F" height="28" alt="Instagram"></a>
   &nbsp;
   <a href="https://discord.com/"><img src="https://img.shields.io/badge/ObscureGlitch-000000?style=for-the-badge&logo=discord&logoColor=5865F2" height="28" alt="Discord: ObscureGlitch"></a>
