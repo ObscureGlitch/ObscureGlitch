@@ -11,7 +11,7 @@
 
 <br>
 
-`Building` &nbsp; `Learning` &nbsp; `Occasionally Debugging`
+`Building` &nbsp; `Learning` &nbsp; `Debugging`
 
 </div>
 
