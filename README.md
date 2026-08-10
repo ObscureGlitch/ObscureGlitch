@@ -19,11 +19,11 @@
 
 ## About me
 
-I'm a second-year student at the **University of Ottawa**, currently preparing and searching for junior-level and second-year co-op opportunities.
+I'm a second-year student at the **University of Ottawa**, currently seeking junior-level and second-year co-op opportunities.
 
 I'm mainly interested in **web development**, **game development**, and **hardware programming**. I prefer learning by making things, even if those things remain unfinished for a suspicious amount of time.
 
-Right now, I'm working on private websites and a few Roblox games that aren't quite ready to escape into the public yet.
+Right now, I'm working on private websites and a few Roblox games that aren't quite ready to go public yet.
 
 ---
 
