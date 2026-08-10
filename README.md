@@ -80,7 +80,7 @@ A collection of unfinished game ideas, experiments, and mechanics. Some may even
 <img
   align="right"
   src="assets-asa-profile-image.jpg"
-  width="400"
+  width="360"
   alt="Low cortisol illustration">
   
 When I'm not staring at code, I'm probably:
