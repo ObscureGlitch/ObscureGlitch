@@ -120,6 +120,6 @@ Broke and single
 
 ### `THE END`
 
-stay curious · keep building · hire me
+stay curious · keep building · hire me pls
 
 </div>
