@@ -77,6 +77,12 @@ A collection of unfinished game ideas, experiments, and mechanics. Some may even
 
 ## Outside of programming
 
+<img
+  align="right"
+  src="assets-asa-profile-image.jpg"
+  width="400"
+  alt="Low cortisol illustration">
+  
 When I'm not staring at code, I'm probably:
 
 - at the gym
