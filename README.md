@@ -19,7 +19,7 @@
 
 ## About me
 
-I'm a university student based in **Ottawa, Canada**, currently preparing for junior-level and second-year co-op opportunities.
+I'm a second-year student at the **University of Ottawa**, currently preparing and searching for junior-level and second-year co-op opportunities.
 
 I'm mainly interested in **web development**, **game development**, and **hardware programming**. I prefer learning by making things, even if those things remain unfinished for a suspicious amount of time.
 
