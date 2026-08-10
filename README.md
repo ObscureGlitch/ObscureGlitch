@@ -104,35 +104,16 @@ Broke and single
 
 ## Contact
 
+## Contact
+
 <p>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=daniel.zongjin.he@gmail.com&su=Hello%20from%20GitHub">
-    <img
-      src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335"
-      height="28"
-      alt="Email Daniel through Gmail">
-  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=daniel.zongjin.he@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" height="28" alt="Email"></a>
   &nbsp;
-  <a href="https://www.instagram.com/obscureglitch/">
-    <img
-      src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F"
-      height="28"
-      alt="Instagram">
-  </a>
+  <a href="https://www.instagram.com/obscureglitch/"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F" height="28" alt="Instagram"></a>
   &nbsp;
-  <a href="https://discord.com/channels/@me/">
-    <img
-      src="https://img.shields.io/badge/ObscureGlitch-000000?style=for-the-badge&logo=discord&logoColor=5865F2"
-      height="28"
-      alt="Discord username: ObscureGlitch"
-      title="Discord: ObscureGlitch">
-  </a>
+  <a href="https://discord.com/"><img src="https://img.shields.io/badge/ObscureGlitch-000000?style=for-the-badge&logo=discord&logoColor=5865F2" height="28" alt="Discord: ObscureGlitch"></a>
   &nbsp;
-  <a href="https://www.roblox.com/users/142387105/profile">
-    <img
-      src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white"
-      height="28"
-      alt="Daniel's Roblox profile">
-  </a>
+  <a href="https://www.roblox.com/users/142387105/profile"><img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white" height="28" alt="Roblox profile"></a>
 </p>
 
 ---
