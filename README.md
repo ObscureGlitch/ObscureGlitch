@@ -1,6 +1,6 @@
 <div align="center">
 
-# It's me, Daniel
+# Hey it's me, Daniel
 
 ### websites, games, and other things that seemed like a good idea
 
