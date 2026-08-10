@@ -19,7 +19,7 @@
 
 ## About me
 
-I'm a second-year student at the **University of Ottawa**, currently seeking junior-level and second-year co-op opportunities.
+I'm a second-year **Software Engineering** student at the **University of Ottawa**, currently seeking junior-level and second-year co-op opportunities.
 
 I'm mainly interested in **web development**, **game development**, and **hardware programming**. I prefer learning by making things, even if those things remain unfinished for a suspicious amount of time.
 
