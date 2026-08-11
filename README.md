@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey it's me, Daniel
+# Hey, it's me, Daniel
 
 ### websites, games, and other things that seemed like a good idea
 
@@ -115,13 +115,3 @@ Broke and single
   &nbsp;
   <a href="https://www.roblox.com/users/142387105/profile"><img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white" height="28" alt="Roblox profile"></a>
 </p>
-
----
-
-<div align="center">
-
-### `THE END`
-
-stay curious · keep building · hire me pls
-
-</div>
