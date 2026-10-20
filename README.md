@@ -2,7 +2,7 @@
 
 # Hey, it's me, Daniel
 
-### websites, games, and other things that seemed like a good idea
+### games, websites, and other things that seemed like a good idea
 
 <img
   src="assetsprofile-image.jpg"
