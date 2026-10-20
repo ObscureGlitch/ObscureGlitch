@@ -21,9 +21,9 @@
 
 I'm a second-year **Software Engineering** student at the **University of Ottawa**, currently seeking junior-level and second-year co-op opportunities.
 
-I'm mainly interested in **web development**, **game development**, and **hardware programming**. I prefer learning by making things, even if those things remain unfinished for a suspicious amount of time.
+I'm mainly interested in **game development**, **web development**, and **hardware programming**. I prefer learning by making things, even if those things remain unfinished for a suspicious amount of time.
 
-Right now, I'm working on private websites and a few Roblox games that aren't quite ready to go public yet.
+Right now, I'm working on games and a private websites that aren't quite ready to go public yet.
 
 ---
 
